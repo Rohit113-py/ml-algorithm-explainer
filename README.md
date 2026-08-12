@@ -2,7 +2,7 @@
 An interactive AI-powered ML Algorithm Explainer built with Streamlit, Scikit-learn, Plotly, and OpenAI API. It helps users understand machine learning models through visualizations, theory, code examples, and dataset-based demonstrations.
 
 ## 🚀 Live Demo
-[Click here to try the app](https://sayan85095-ml-algorithm-explainer-app-rc7n2l.streamlit.app/)
+[Click here to try the app](https://ml-algorithm-explainer-5jttmz44no2cof6rdruchb.streamlit.app/))
 
 ## 🛠️ Features
 - Decision Tree visualization
